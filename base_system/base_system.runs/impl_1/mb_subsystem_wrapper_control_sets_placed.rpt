@@ -1,0 +1,42 @@
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+----------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.3.1 (win64) Build 2035080 Fri Oct 20 14:20:01 MDT 2017
+| Date         : Fri Aug  3 23:20:19 2018
+| Host         : PC3VGN482-CSE running 64-bit major release  (build 9200)
+| Command      : report_control_sets -file mb_subsystem_wrapper_control_sets_placed.rpt
+| Design       : mb_subsystem_wrapper
+| Device       : xc7a100t
+----------------------------------------------------------------------------------------
+
+Control Set Information
+
+Table of Contents
+-----------------
+1. Summary
+2. Flip-Flop Distribution
+
+1. Summary
+----------
+
++-------------------------------+-------+
+|             Status            | Count |
++-------------------------------+-------+
+| Number of unique control sets |   102 |
++-------------------------------+-------+
+
+
+2. Flip-Flop Distribution
+-------------------------
+
++--------------+-----------------------+------------------------+-----------------+--------------+
+| Clock Enable | Synchronous Set/Reset | Asynchronous Set/Reset | Total Registers | Total Slices |
++--------------+-----------------------+------------------------+-----------------+--------------+
+| No           | No                    | No                     |             264 |           93 |
+| No           | No                    | Yes                    |              29 |            8 |
+| No           | Yes                   | No                     |             316 |          128 |
+| Yes          | No                    | No                     |             304 |           80 |
+| Yes          | No                    | Yes                    |              15 |            8 |
+| Yes          | Yes                   | No                     |             904 |          281 |
++--------------+-----------------------+------------------------+-----------------+--------------+
+
+
