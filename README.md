@@ -26,3 +26,6 @@ Procedure:
 7. Test your design using the Nexys4board.
 
 It is a practical demonstration of design implementation on a SoC (System on Chip). The screenshot of the test result of the arithmetic operation is attached below.
+
+<img width="467" alt="screen shot 2019-02-06 at 9 01 02 pm" src="https://user-images.githubusercontent.com/33227826/52388117-9959e100-2a52-11e9-9ec3-f6db44196bc0.png">
+
